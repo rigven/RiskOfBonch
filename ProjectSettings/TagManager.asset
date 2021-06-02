@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Background
+  - Projectile
+  - Camera
+  - Enemy
+  - InteractivePlayerObject
+  - InteractiveObject
+  - Modifier
+  - PlayerProjectile
+  - FlyingEnemy
+  - Shield
+  - IgnoreAll
+  - RigidEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackBackground
+    uniqueID: 3575585319
+    locked: 0
+  - name: Background
+    uniqueID: 4055908501
+    locked: 0
+  - name: InteractiveObject
+    uniqueID: 434580677
+    locked: 0
+  - name: Player
+    uniqueID: 2229571769
+    locked: 0
+  - name: Foreground
+    uniqueID: 3976317763
+    locked: 0
+  - name: Projectile
+    uniqueID: 3994377063
+    locked: 0
+  - name: Enemy
+    uniqueID: 492774071
+    locked: 0
+  - name: VFX
+    uniqueID: 1871104345
+    locked: 0
+  - name: TopBackground
+    uniqueID: 3099937557
+    locked: 0
+  - name: UI
+    uniqueID: 2880435921
+    locked: 0
+  - name: Overlay
+    uniqueID: 3117183867
+    locked: 0
